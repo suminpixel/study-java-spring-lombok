@@ -1,0 +1,14 @@
+package com.cp.bbs;
+
+import com.cp.bbs.service.BbsService;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BbsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
